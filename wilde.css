@@ -1,0 +1,40 @@
+.speech {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    size: 32px;
+    color: black;
+}
+
+.stage-direction {
+    font-family: 'Courier New', Courier, monospace;
+    size: 30px;
+    color: black;
+    background-color:cornsilk;
+}
+
+.stage-direction:hover {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.name {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    size: 20px;
+    color: black;
+}
+
+.firstSoldier {
+    color: aquamarine;
+
+}
+
+.secondSoldier {
+    color:chartreuse;
+}
+
+.thirdSoldier {
+    color:cyan;
+}
+
+.theSoldiers {
+    color:forestgreen;
+}
