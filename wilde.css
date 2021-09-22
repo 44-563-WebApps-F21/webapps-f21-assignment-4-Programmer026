@@ -38,3 +38,18 @@
 .theSoldiers {
     color:forestgreen;
 }
+
+.table {
+    border:solid 7px;
+    border-color:#B22222 #FEB9B9 #FEB9B9 #B22222; 
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+tr:nth-child(even) {
+    background-color:rgb(221, 213, 213);
+}
+
+td {
+    padding: 32px 32px 32px 32px;
+}
